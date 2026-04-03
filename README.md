@@ -72,6 +72,14 @@ java -cp out com.narxoz.rpg.Main
 ```
 
 ---
+### Command Pattern
+![Command Pattern](diagrams/CommandPattern.png)
+
+### Chain of Responsibility
+![Chain of Responsibility](diagrams/ChainofResponsibility.png)
+
+### Ссылка на код
+https://github.com/markhabaerzhan/homework-rpg-6.git
 
 ## Deliverables
 
